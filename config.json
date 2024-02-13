@@ -1,0 +1,13 @@
+[
+    {
+        "name": "speech",
+        "speech_subscription_key": "ea3d3d6ec2df45bab1e6242bc53cdf42",
+        "speech_region": "East US",
+        "text_analytics_key": "68e25194ce544296b8734211454996c2",
+        "text_analytics_endpoint": "https://languagetest06.cognitiveservices.azure.com/",
+        "openai_endpoint": "https://openaicallcenter01.openai.azure.com/",
+        "openai_key": "f942689be57a4e73a8efa1ef2aa91b82",
+        "openai_deployment_name": "openaicallcenter01",
+        "web_port": "8080"
+    }
+]
